@@ -1,3 +1,8 @@
+ ```python
+ """
+ Тесты для скрипта анализа лог-файлов.
+ """
+ ```
 import datetime as dt
 import json
 
