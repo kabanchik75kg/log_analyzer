@@ -14,9 +14,11 @@ pip install -r requirements.txt
  ## Примеры:
   1. **Анализ одного лог-файла.**
   <img width="1092" height="155" alt="image" src="https://github.com/user-attachments/assets/50ceaa7d-ae01-4ce4-a228-a1f52ea4bf93" />
+  
   2. **Анализ нескольких лог-файлов.**
   <img width="1040" height="144" alt="image" src="https://github.com/user-attachments/assets/8aff906d-414e-4d83-934e-a73674115eed" />
-  3. **Анализ двух лог-файла с указанной датой**
+  
+  3. **Анализ двух лог-файла с указанной датой.**
   <img width="1180" height="145" alt="image" src="https://github.com/user-attachments/assets/ffa07627-8024-4f04-8b57-bffa42032eee" />
 
 ## Тесты:
